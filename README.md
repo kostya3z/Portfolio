@@ -1,8 +1,24 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="300"/>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/konstantin-zuev-54352a248/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/konstantin.zuev">
+    <img src="https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=kostya3z&style=flat-square&color=blue" alt=""/>
+</div>
+     
 <h1 align="center">Привет! Меня зовут Константин. </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Data Analyst</h3>
-<h3 align="center"> Яндекс. Практикум </h3>
+
 
 Я начинающий аналитик данных.      
 Ранее 3 года работал юристом в области недвижимости и строительства в крупных юридических консалтинговых фирмах, но решил сменить профессию и заняться тем, что больше по душе.
@@ -13,8 +29,22 @@
 - Tableau;
 - MS Excel
 
-Ниже представлен перечень выполненных проектов с их кратким описанием.
+---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Redux " width="40" height="40"/>&nbsp;
+
+</div>
+
+---
+Ниже представлен перечень выполненных проектов с их кратким описанием.
 ### Описание проектов
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по специальности "Аналитик данных".
