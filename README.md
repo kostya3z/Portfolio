@@ -24,9 +24,9 @@
 Ранее 3 года работал юристом в области недвижимости и строительства в крупных юридических консалтинговых фирмах, занимался анализом законодательства и судебной практики, но затем решил сменить профессию и погрузиться в настоящую аналитику.
 
 Основные навыки:
-- SQL(PostgreSQL);
+- SQL(PostgreSQL, MySQL);
 - Python (pandas, numpy, matplotlib, seaborn, pyplot, scipy);
-- BI-tools (Tableau);
+- BI-tools (Tableau, DataLens);
 - MS Excel
 
 ---
